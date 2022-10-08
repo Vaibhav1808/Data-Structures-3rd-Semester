@@ -24,8 +24,7 @@ int linear_search(int arr[], int x)
             return i;
         }
     }
-}
-
+}    
 
 // BINARY SEARCH
 
