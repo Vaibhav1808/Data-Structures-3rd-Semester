@@ -30,7 +30,7 @@ int linear_search(int arr[], int x)
 
 //This function is a simple Binary Search function where left and right indexes are being provided.
 
-int binary_search_code(int arr[],int l,int r,int x)
+int binary_search_code(int arr[],int l,int r,int x) 
 {
     int mid = (l+r) / 2;
     while(l<=r)
